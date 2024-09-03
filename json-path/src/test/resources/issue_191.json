@@ -612,7 +612,7 @@
                     "id": "test_jenkins-master.81fd2852-cf37-11e4-a1fc-56847afe9799",
                     "name": "jenkins-master.test",
                     "resources": {
-                        "cpus": 0.3,
+                        "cpus": 0.4,
                         "disk": 0,
                         "mem": 768,
                         "ports": "[31160-31160]"
